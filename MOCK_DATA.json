@@ -1,10 +1,1 @@
-[{"amount":"4.40","currency":"KWD","description":"Cookley","partner":"Tazz"},
-{"amount":"2.48","currency":"ALL","description":"Fintone","partner":"Demizz"},
-{"amount":"6.42","currency":"COP","description":"Daltfresh","partner":"Tagopia"},
-{"amount":"1.59","currency":"EUR","description":"Domainer","partner":"Browsedrive"},
-{"amount":"2.19","currency":"SEK","description":"Job","partner":"Feedfire"},
-{"amount":"2.72","currency":"THB","description":"Alphazap","partner":"Rooxo"},
-{"amount":"6.30","currency":"IDR","description":"Sonsing","partner":"Flashset"},
-{"amount":"9.60","currency":"PHP","description":"Trippledex","partner":"Yakidoo"},
-{"amount":"7.18","currency":"UAH","description":"Bigtax","partner":"Skalith"},
-{"amount":"8.62","currency":"MXN","description":"Y-Solowarm","partner":"Meembee"}]
+{"amount":"4.40","currency":"KWD","description":"Cookley","partner":"Tazz"}
