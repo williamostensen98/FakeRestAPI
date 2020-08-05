@@ -1,5 +1,6 @@
 # FakeRestAPI
 Rest API Dummy daa
 
-
-[dobmobileapp://consent]()
+<html>
+<a href="dobmobileapp://consent/"
+</html>
