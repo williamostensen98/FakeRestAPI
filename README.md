@@ -2,4 +2,4 @@
 Rest API Dummy daa
 
 
-[dobmobileapp://consent/home]
+[dob mobile](dobmobileapp://consent/home)
